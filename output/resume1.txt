@@ -1,0 +1,48 @@
+Rohit Wakchaure
+B-Tech in Computer Engineering
+♂phone+91 8010843909 /envel⌢perohitwa234@gmail.com /linkedinlinkedin.com/in/rohit-s-wakchaure /githubgithub.com/rohitwakchaure
+Objective
+I am a motivated and detail-oriented B.Tech student in Computer Science and Engineering, currently pursuing my
+degree at Sanjivani College of Engineering,Kopargaon With strong foundational skills in programming languages like
+C, C++, and Python.I am passionate about applying innovative solutions to real-world challenges. My goal is to
+contribute effectively to technology-driven projects that foster growth and innovation.
+Education
+Bachelor of Computer Engineering Nov. 2022 – Present
+Sanjivani College of Engineering, Kopargaon, Maharashtra CGPA: 7.24/10
+Higher Secondary Certificate (HSC) July 2021 – April 2022
+Modern Junior College, Akole, Maharashtra Percentage: 74.00%
+Secondary School Certificate (SSC) June 2019 – June 2020
+Madhyamik Vidyalaya, Pimpalgaon Nipani, Maharashtra Percentage: 76.80%
+Skills
+–Programming Languages: C++, C, Python, HTML, CSS, JavaScript, SQL
+– Software Tools: VS Code, Eclipse IDE, MySQL, MS Office
+– Core Skills: Web Development,Ubuntu
+– Soft Skills: Problem Solving, Adaptability, Teamwork
+Publication
+–AI-Augmented Software Development: Boosting Efficiency and Quality
+– Virtualization Techniques for Secure Cloud Architectures: An Analysis of Risks and Countermeasures
+– Enhancing Real-Time Object Detection With Advanced YOLOv9 and OpenCV in Python
+Personal Projects
+Attendence Management System
+Web Developement Project
+Developed an web application for managing attendence of 1000 students by reducing reliance on manual data handling by
+ensuring accurate data management.
+Project in C++ TIC TAC TOE
+Mini Project
+TIC-TAC-TOE game implemented in C++ with a simple command line interface, using basic algorithms and data structures
+to manage game logic and player moves.
+Universa Learn - A Educational Website
+Website Project
+A dynamic free education website for a college competition with admin and student logins. Admins can add courses, while
+students can explore, search, filter, and provide feedback on available courses.
+Extra-Curricular Activities
+Participate In Intercollege Sports Event Active participant in [Kabaddi] at [PCOE,Loni], demonstrating teamwork, disci-
+pline, and leadership.
+Certificate of Participation – Profest 2k23 Project Competition: Recognized for active participation in a project
+competition hosted by the Department of Computer Engineering, Sanjivani College, in collaboration with ACES GFG Student
+Chapter.
+Participate In National Level Tech-Fest ”Aspiring web developer with a passion for innovation and problem-solving.
+Participated in Tech-Sanjivani 2K25 Web Development Competition. Seeking opportunities to grow and contribute.”
+Certifications
+NPTEL - Cloud Cmputing (Jul-Oct 2024)
+Coursera : 1. Object Oriented Programming In C++

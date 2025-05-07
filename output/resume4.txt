@@ -1,0 +1,36 @@
+TY
+2022Shinde Akash Babasaheb
+A/P Sangvi Bhusar tal- Kopargaon
+9561642249 | abshinde2605@gmail.com
+Objective
+To work in an environment which encourages me to succeed and grow professionally where I can
+utilize my skills and knowledge appropriately.
+Education
+Sanjivani College of Engineering Kopargaon
+B.TECH Computer Engineering
+8.6 CGPA
+Sanjivani Sainiki School
+HSC
+86.00%
+Skills
+Web development frontend and backend with HTML,CSS, JS and Django respectively.
+Basics of React
+Python programming
+C++ programming
+Projects
+Dairy farm Ledger
+This is web based application developed with the help of Django a python framework.  
+ This project was build to overcome the problem of farmers which having the cows farm
+and where they were not able to keep track of their cows (e.g. breeding date of cows, how
+much milk they produces , what is daily milk etc) and also interactions of dairy people (who
+take the milk) and farmers for their all the daily transactions and also giving products to
+farmers according to their needs. 
+PLACEMENT MANAGEMENT SYSTEM
+This project was built for the smooth conduction of the placement activities where students can
+be able to apply for various companies in placement drives .
+Achievements & Awards
+1 star rating on Code Chef.
+Participated in Flipkart Grid
+CERTIFICATEProject competition participation certiﬁcate of pict
+Object Oriented programming 
+C++ programming:  Classes and Data

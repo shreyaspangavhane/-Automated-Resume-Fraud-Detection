@@ -1,0 +1,78 @@
+Contact
+      shreyaspangavhane2022@gmail.com
+      +91 9284776383
+      Kopargaon, Maharashtra 
+      Github:     
+       https://github.com/shreyaspangavhane
+       LinkedIn:
+        https://www.linkedin.com/in/shreyas-   
+        pangavhane-3a011a263/Bhabha Atomic Research Centre (BARC) [01 Mar 2025 - Present]
+Application Developer and Research Intern
+Working on Native Application development and Researching and
+developing AI & ML models
+Infovirtech Private Limited [26 Jul 2024 - 29 Nov 2024]
+Full-Stack Web Development Intern 
+Worked as a Full Stack Web Developer intern. Handling front-end, back-
+end using HTML, CSS, Bootstrap, JavaScript, React, node.js, and databasesInternshipShreyas Sanjay Pangavhane
+[Pursuing Computer Engineering] 
+As an expert in website development, user interface design, front-end and
+back-end technologies. Having a keen interest in the latest techniques of
+machine learning and data science. This skill will boost me so much that it
+will add value to any organization that I join. 
+AI-Powered Complaint Chatbot & Resolution System [Duration: 2
+Month]
+AI-powered system for real-time complaint tracking, fast resolution, & data-
+driven insights for improved decision-making. 
+Fitness Assistant: Workouts, Diet Guide [Duration : 1 Month]
+Developed a dynamic fitness assistant using HTML, CSS, JS, and React,
+offering personalized workout routines, diet plans, and exercise guidance to
+help users achieve their fitness goals efficiently. 
+Blogging Platform: Write, Share, Manage Blogs [Duration: 1 Month] 
+Developed blogging platform using MERN Stack allowing users to write,
+share, edit, update, and delete blogs. Image uploadation for content sharing.
+QR Image Generator from URL Project [Duration : 1 Month] Develoed QR
+code generator in Node.js with npm packages, customizable parameters
+(size, color, error correction), ensuring reliability with robust testing.Projects
+Object Oriented Programming Specialization 
+Issuing Certificate: University of London 24 Nov 2023 
+Assessment in the job role Software Programmer 
+Issuing Certificate: National Skills Qualifications Framework Level - 4
+(PMKVY4.0) 26 Dec 2023 
+The Complete Web Development Bootcamp 
+Issuing Certificate: Udemy 28 Feb 2024Certificates
+Published and presented 4 papers in Scopus-indexed Conferences 
+Conferences : IEEE (Institute of Electrical and Electronics Engineers) 
+2nd Prize - Profest Project Competition (Hosted by SCOE,
+Kopargaon)
+Awarded for creating an AI-driven system for rail complaint tracking and
+resolution system.Achievements Google Developer Groups (GDGs)  
+[Duration: 06 Dec 2024 to Till Date
+Organization : SCOE, Kopargaon
+Position : A Web Developer  Lead
+Description: GDGs club Web
+Development Lead, dedicated to helping
+students connect and learn.Co-CurricularEducation 
+Bachelor of Computer Engineering
+(Pursuing)
+Sanjivani College of Engineering ,
+Kopargaon
+CGPA : 8.6
+H.S.C (2021- 22) 
+Sanjivani Junior College, Kopargaon
+Percentage : 90.92% 
+S.S.C (2019-20)  
+C.S.V.Kolpewadi
+Percentage : 90%
+Technical Skills 
+Data Science 
+MERN Stack
+Database Languages: 
+(Mongo DB)
+OOP Languages: 
+(C/C++)
+Language 
+English
+Hindi
+MarathiFreelance Web Developer [Jan 2024 – Present]
+Developed websites for small businesses, enhanced user experience and SEO,
+collaborated with clients to meet deadlines and goals.Extra-Curricular

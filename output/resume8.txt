@@ -1,0 +1,52 @@
+                       KUNAL PATHAK  
+ 
+                         kunalpathak25012004@gmail.com  | +91-7972839585            |   https://github.com/Mr -kunalpathak25     | kunalpathak25  
+ 
+TECHNICAL SKILLS  
+❖ Cybersecurity: Penetration Testing, Vulnerability Assessment  
+❖ Network Security: Firewalls, Nmap, Wireshark  
+❖ Programming Languages: Java | C++  | C | Python  
+❖ Web Technologies: HTML, CSS, JavaScript  
+❖ Data Structures & Algorithms  
+ACHIEVEMENTS  
+❖ Research  paper  publication  | Verify  
+Published  a survey  paper  on topic  “Survey on  Framework  of Governing  Modern  Cyber  Attacks  in Computer Network”  
+in the IEEE  Conference proceedings.  
+The 95% cyber -attacks  are detected  by making  the use of technologies like  Artificial  Intelligence  and Machine Learning 
+which makes the systems safer and more secured.  
+EDUCATION  
+❖ Sanjivani  College  of Engineering,  Maharashtra,  India    
+• Bachelor  of Technology  (B-Tech)  in Computer  Engineering   
+• Relevant coursework:  Object Oriented Programming | Fundamental Data Structure | Computer 
+Fundamental Programming | Databases  | Discrete  Math’s  | Advance  Data  Structures  | Computer  Organization  
+and Architecture  | Operating  System Administration |  
+❖ S.S.G.M College Kop argaon  Maharashtra, India (HSC)    
+❖ New English School Yesgaon,  Maharashtra, India  (SSC)    
+PROJECTS  
+❖ Arithmetic  Calculator            (2022 ) 
+This project showcases proficiency in front -end technologies and problem -solving skills in implementing basic arithmetic 
+operations. – HTML, CSS, JavaScript  
+❖ Placement Management System Web Based Application        (2023)   
+(Automated platform for managing student placements efficiently)  
+❖ Sanjivani CIA Report Generator          (2024)   
+(A web -based system for managing and generating Continuous Internal Assessment (CIA) reports, featuring role -based 
+access for admins, faculty, and students. ) 
+❖ Smart Parking System – ‘Park Smart’          (2025)   
+(Developed an IoT -based smart parking system using ultrasonic & IR sensors to optimize parking slot allocation. 
+Implemented real -time monitoring using Raspberry Pi 3B ) 
+EXPERI ENCE  
+❖ Cod soft – Virtual Internship in “Web Development ”. @codsoft       
+❖ Cognifyz_Technologies – virtual internship as a “Java Developer ”.@cognifyz_technologies                 
+ 
+COMMUNICATION LANGAUGES  
+❖ English  | Hindi | Marathi  
+CERTIFICATIONS  
+❖ Mastering Nmap  – From Infosys Springboard  | Verify                                                                                  
+❖ AWS Academy Graduate  - AWS Academy Cloud Security Foundations  | Verify                                      
+❖ Cybersecurity Awareness: Phishing Attacks (2022)  – LinkedIn  Learning  | Verify 
+❖ Complete Guide to SQL for Data Engineering  – LinkedIn  Learning  
+❖ Object  Oriented  Programming  Specializations  (University of London ) Certification  | Verify  
+Coursera  certified  for successful  completion  of University  of London  & Goldsmiths,  University  of London Object Oriented 
+Programming Specialization, Taught by: Dr Matthew Yee -King . 
+HOBBIES  
+❖ Learning New Things New Technologies,  Playing badminton  

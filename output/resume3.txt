@@ -1,0 +1,69 @@
+CONTACT
+PROJECTSEDUCATIONABOUT ME
+I am a motivated and detail-oriented B.Tech student in Computer
+Science and Engineering, currently pursuing my degree at Sanjivani
+College of Engineering,Kopargaon With strong foundational skills in
+programming languages like C, C++, and Python.I am passionate
+about applying innovative solutions to real-world challenges. My goal
+is to contribute effectively to technology-driven projects that foster
+growth and innovation.
+CERTIFICATESKRISHNA SHELAR
+Tech Enthusiast | Aspiring Computer Engineer | Constant Learner 
+ B.TECH COMPUTER ENGINEERING 2022-26
+Sanjivani College of Engineering,Kopargaon.
+CGPA:- 8.44
+HIGHER SECONDARY SCHOOL(HSC) 
+S.S.G.M. College,Kopargaon.
+Percentage:- 68.67
+SECONDARY SCHOOL(SSC) 2022-22
+2010-20
+Madhyamik Vidyalaya Brahmangaon,Kopargaon.
+Percentage:- 87.88+91 9156388318
+krishnashelar790@gmail.com
+Krishna-Shelar
+GitHub- Krish1712204
+A/p.Takali,Tal.Kopargaon,
+Dist.Ahilyanagar,423601
+NPTELCOURSERA
+PUBLICATIONS
+4. A Survey on Security Issues and Challenges in Cloud Computing 
+Read Here - 2024 International Conference on Decision Aid
+Sciences and Applications (DASA)
+ 1. Cattle Health Monitoring System Using IoT
+ 
+ IEEE Xplore 2023 (Scopus Indexed) Read Here -
+10.1109/ICCAKM58659.2023.10449639
+2. Solar Panel Installation: A Review of Current Technologies and Future
+Directions 
+Read Here - 2024 International Conference on Decision Aid Sciences 
+an Applications (DASA)
+3. AI-Augmented Software Development : Boosting Efficiency and Quality 
+Read Here - 2024 International Conference on Decision Aid Sciences
+and Applications (DASA) 1. Attendence Management System
+Domain : Web Development
+Tools /Technologies : NodeJS, Tailwind CSS,
+MYSQL,
+XAMP
+Description : Developed an web application for
+managing attendence of 1000 students by reducing
+reliance on manual data handling by ensuring
+accurate data management.
+ 1.Cloud Computing
+2.Internet of thingsSpecialization: Object Oriented Programming 1. Introduction
+to Object-Oriented Programming in C++ 2. C++
+Programming: Classes and Data 3.Object-Oriented
+Programming in C++: Functions 4.Working with Objects in
+C++ 5. Use C++ to build a Crypto Trading Platform:Final
+System
+Technical Skills
+Java
+HTML
+CSS
+JavaScript
+MySQL
+Soft Skills
+Quick Learner
+Team Management
+Self Passionate 
+Good Communication 
+Problem Solving
